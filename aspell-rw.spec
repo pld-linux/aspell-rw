@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Kinyarwanda dictionary (i.e. word list) for aspell.
 
 %description -l pl
-S³ownik rwandyjski (lista s³ów) dla aspella.
+S³ownik (lista s³ów) rwandyjski dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
