@@ -1,5 +1,5 @@
 Summary:	Kinyarwanda dictionary for aspell
-Summary(pl.UTF-8):   Słownik rwandyjski dla aspella
+Summary(pl.UTF-8):	Słownik rwandyjski dla aspella
 Name:		aspell-rw
 Version:	0.50
 %define	subv	0
