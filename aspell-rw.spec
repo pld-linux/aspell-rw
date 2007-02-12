@@ -1,5 +1,5 @@
 Summary:	Kinyarwanda dictionary for aspell
-Summary(pl):	S≥ownik rwandyjski dla aspella
+Summary(pl.UTF-8):   S≈Çownik rwandyjski dla aspella
 Name:		aspell-rw
 Version:	0.50
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Kinyarwanda dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik rwandyjski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik rwandyjski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
